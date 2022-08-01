@@ -72,4 +72,4 @@ strip = true
 
 [build-dependencies]
 protobuf-codegen-pure = "2.27.1"
-tonic-build = "0.7"
+tonic-build = "0.8"
